@@ -67,15 +67,15 @@ Notebook disusun dalam urutan berikut:
 
 ## Kebutuhan Data
 
-Siapkan data berikut:
+Get Dataset from Google Drive:
 
+[Download from Google Drive](https://drive.google.com/drive/folders/1hiF9T5Cz-ID0GIFeQMUY48GidEHkTvip?usp=drive_link)
+
+Setelah diunduh, siapkan:
 - folder gambar wajah CelebA yang sudah disejajarkan, misalnya:
   - `img_align_celeba/`
 - file atribut CelebA, misalnya:
   - `list_attr_celeba.txt`
-
-Nama file atribut dapat berbeda, selama format isinya tetap sesuai format CelebA.
-
 ## Struktur Folder
 
 Contoh struktur folder proyek:
