@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+pandas
+matplotlib
+pillow
+tqdm
+scikit-learn
+opencv-python
+imagehash
+gradio
+jupyter
+ipywidgets
+notebook
